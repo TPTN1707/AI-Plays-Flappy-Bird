@@ -27,15 +27,15 @@ python flapp_bird.py
 ```
 The AI will start learning and evolving over generations. After a few iterations, you should see significant improvement in gameplay!
 
-🧠 AI Training Summary
+# 🧠 AI Training Summary
 AI is trained using the neat-python library.
 
 The bird is controlled by a feedforward neural network evolved by NEAT.
 
 The fitness function rewards surviving longer and passing pipes.
 
-📜 License
+# 📜 License
 This project is open source and free to use under the MIT License.
 
-🙌 Credits
+# 🙌 Credits
 Built with ❤️ by TPTN1707 - Tran Pham Trong Nhan
