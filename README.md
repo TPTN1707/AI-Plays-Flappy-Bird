@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/TPTN1707/AI-Plays-Flappy-Bird
 ```
 ### STEP 01- Create a conda enviroment after opening the repository
 ```bash
